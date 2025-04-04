@@ -10,9 +10,9 @@
 
 📷 Photography: I have a passion for capturing the beauty of nature and life's everyday moments through the lens of a camera. If you share this interest or have photography tips to swap, let's connect!
 
-🌐 Currently Learning: I'm on an exciting journey learning Full-Stack Cloud Application Development. Cloud platforms, such as AWS and Azure, have opened up a world of possibilities for scalable, resilient applications. If you're on a similar learning path or have insights to share, I'd love to hear from you.
+🌐 Currently Learning: I'm diving into the fascinating world of AI-powered application development, focusing on technologies like multi-agent systems, LangChain, Retrieval-Augmented Generation (RAG), and large language models (LLMs). These tools are revolutionizing how we build intelligent, scalable applications by enabling dynamic automation, real-time decision-making, and seamless integration with cloud platforms like AWS, Azure, and GCP. If you're exploring similar areas or have insights to share, I'd love to connect and learn from your experiences!
 
-💞️ I’m looking to collaborate on projects that blend my passion for software development and AI with nature and photography. Whether it's creating an app to identify plants and animals in the wild, developing AI-driven image editing tools, or even building a platform for fellow nature enthusiasts, I'm open to creative ideas and collaborations.
+👥 I’m looking to collaborate on projects that blend my passion for software development and AI with nature and photography. Whether it's creating an app to identify plants and animals in the wild, developing AI-driven image editing tools, or even building a platform for fellow nature enthusiasts, I'm open to creative ideas and collaborations.
 
 📫 How to Reach Me:
 LinkedIn: (https://www.linkedin.com/in/nathaniel-ross-734292163/)
